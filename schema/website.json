@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Worknoon",
+  "url": "http://webuildit.xo.je",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Worknoon",
+    "url": "http://webuildit.xo.je/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://webuildit.xo.je/wp-content/uploads/2026/05/worknoon-logo.png"
+    }
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://webuildit.xo.je/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}

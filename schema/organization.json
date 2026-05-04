@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "RealEstateAgent",
+  "name": "Worknoon-wordpres",
+  "url": "http://webuildit.xo.je",
+  "logo": "http://webuildit.xo.je/wp-content/uploads/2026/05/worknoon-logo.png",
+  "description": "Worknoon is a real estate company helping clients find and invest in properties.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "NG",
+    "addressLocality": "Abuja"
+  },
+  "sameAs": [
+    "https://facebook.com/worknoon-assement",
+    "https://instagram.com/worknoon-assement",
+    "https://twitter.com/worknoon-assement"
+  ]
+}
