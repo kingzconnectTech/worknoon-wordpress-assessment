@@ -10,7 +10,7 @@ The solution includes a responsive landing page, structured data implementation,
 
 ## Live Demo
 
-🔗 https://worknoon-assement.ct.ws/
+https://webuildit.xo.je/
 
 ---
 
@@ -212,11 +212,7 @@ Schema types used:
 * Add dynamic property management system
 * Integrate affiliate/referral tracking system
 
----
 
-## Demo Video
-
-📺 (Add your Loom/YouTube/Drive link here)
 
 ---
 
